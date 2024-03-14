@@ -1,5 +1,5 @@
 
-#https://nikhilbandgar.github.io/BMICalculator/
+
 # Projects related to DOM - BMI Calculator
 
 ## Project Link
